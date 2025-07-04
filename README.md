@@ -8,7 +8,6 @@ A machine learning project focused on identifying fraudulent transactions in cre
 
 This project tackles the challenge of **credit card fraud detection** using a real-world, anonymized dataset. Fraudulent transactions are rare, making this a classic case of **imbalanced classification**. The goal is to accurately identify fraud while minimizing false positives and negatives.
 
----
 
 ## Technologies Used
 
@@ -17,7 +16,6 @@ This project tackles the challenge of **credit card fraud detection** using a re
 * **Scikit-learn** – Machine Learning (Logistic Regression, train-test split, evaluation metrics)
 * **Jupyter Notebook** – Interactive code development
 
----
 
 ## Dataset
 
@@ -25,7 +23,6 @@ This project tackles the challenge of **credit card fraud detection** using a re
 * Features: 30 (anonymized), including `Amount` and `Class` (0 = legit, 1 = fraud)
 * Class Imbalance: Only \~0.17% transactions are fraudulent
 
----
 
 ## Key Steps
 
