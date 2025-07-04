@@ -42,7 +42,6 @@ This project tackles the challenge of **credit card fraud detection** using a re
    * Used `train_test_split()` to separate training and testing data
    * Evaluated model performance with **accuracy**, **precision**, and **recall**
 
----
 
 ## Results
 
